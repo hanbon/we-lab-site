@@ -3,7 +3,7 @@
 	<default-config> 
 		<property name="jdbcUrl">
 			<![CDATA[
-				jdbc:mysql://localhost:3306/we-lab-site?characterEncoding=UTF-8
+				jdbc:mysql://172.18.77.23:3306/we-lab-site?characterEncoding=UTF-8
 			]]>
 		</property>
 		<property name="driverClass">com.mysql.jdbc.Driver</property>
